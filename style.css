@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+:root {
+    --font1: 'Poppins', sans-serif;
+}
+
+
+/* Privacy Policy css */
+
+h1 {
+    text-align: center;
+    font-family: var(--font1);
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+p {
+    font-family: var(--font1);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+a {
+    text-decoration: none;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-family: var(--font1);
+}
+
+ul {
+    text-decoration: none;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-family: var(--font1);
+}
+
+li {
+    text-decoration: none;
+    list-style: none;
+}
